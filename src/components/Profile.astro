@@ -124,8 +124,15 @@ const bio = AUTHOR.bio[lang as keyof typeof AUTHOR.bio] ?? AUTHOR.bio.en;
     }
 
     @media (max-width: 859px) {
-        .avatar {
-            display: none;
-        }
+    .avatar {
+        display: block;
+        width: 120px;
+        height: 120px;
+        margin-bottom: 1rem;
     }
+
+    .info h2 {
+        font-size: 1.4rem;
+    }
+}
 </style>
