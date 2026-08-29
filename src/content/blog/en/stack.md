@@ -1,5 +1,5 @@
 ---
-title: "Stack"
+title: "The stack I use every day"
 description: "Phone, machines, identity, and how I publish. What I use and why."
 pubDate: 2026-08-29
 tags: ["systems", "privacy"]
