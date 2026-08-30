@@ -33,13 +33,13 @@ Además, para jugar uso Steam y GOG Galaxy, dos tiendas de videojuegos y launche
 
 ## Identidad: Proton y dominio propio
 
-Correo, calendario, drive y contraseñas están en Proton, colgados de `francisravn.com`. El buzón público es `fran@francisravn.com`. Para todo uso la suite de Proton, por muy poco precio al año, te llevas VPN, Drive, correos, gestor de contraseñas... Por ahora no me han defraudado.
+Correo, calendario, drive y contraseñas están en Proton, colgados de `francisespejo.com`. El buzón público es `fran@francisespejo.com`. Para todo uso la suite de Proton, por muy poco precio al año, te llevas VPN, Drive, correos, gestor de contraseñas... Por ahora no me han defraudado.
 
 El dominio es mío. Si Proton cae o me cambio de proveedor, las MX se apuntan a otro sitio y la dirección sigue siendo la misma
 
 ## Código y web: GitHub, público
 
-La landing ([francisravn.com](https://francisravn.com)) y este blog son estáticos: HTML generado, GitHub y GitHub Pages.
+La landing ([francisespejo.com](https://francisespejo.com)) y este blog son estáticos: HTML generado, GitHub y GitHub Pages.
 
 Un artículo es un Markdown y un commit. Me evito WordPress, antes lo usaba bastante pero ya prefiero algo mas sencillo para lo que quiero montar aquí. El repo está público. Si quieres ver cómo está montado, clónalo. El sitio que estás leyendo se puede copiar entero.
 

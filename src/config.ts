@@ -1,11 +1,11 @@
 export const SITE_CONFIG = {
-  title: 'Francis Ravn',
+  title: 'Francis Espejo',
   description: 'Notas de sistemas y seguridad.',
-  url: 'https://blog.francisravn.com',
+  url: 'https://blog.francisespejo.com',
 };
 
 export const AUTHOR = {
-  name: 'Francis Ravn',
+  name: 'Francis Espejo',
   role: {
     es: 'Especializado en ciberseguridad y sistemas',
     en: 'Focused on cybersecurity and systems',
@@ -20,22 +20,22 @@ export const AUTHOR = {
 export const SOCIALS = [
   {
     label: 'Inicio',
-    href: 'https://francisravn.com',
+    href: 'https://francisespejo.com',
     icon: 'mdi:home',
   },
   {
     label: 'Mail',
-    href: 'mailto:fran@francisravn.com',
+    href: 'mailto:fran@francisespejo.com',
     icon: 'mdi:email',
   },
   {
     label: 'GitHub',
-    href: 'https://github.com/FrancisRavn',
+    href: 'https://github.com/FrancisEspejo',
     icon: 'mdi:github',
   },
   {
     label: 'X',
-    href: 'https://x.com/FrancisRavn',
+    href: 'https://x.com/FrancisEspejo',
     icon: 'mdi:twitter',
   },
 ];

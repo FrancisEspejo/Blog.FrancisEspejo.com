@@ -23,7 +23,7 @@ export async function GET(context: any) {
   posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
   return rss({
-    title: `Francis Ravn | ${t('home.title')}`,
+    title: `Francis Espejo | ${t('home.title')}`,
     description: t('home.subtitle') || SITE_CONFIG.description,
     site: context.site || SITE_CONFIG.url,
     items: posts.map((post) => {

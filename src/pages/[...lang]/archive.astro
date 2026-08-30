@@ -16,7 +16,7 @@ const { lang } = Astro.params;
 const currentLang = lang || defaultLang;
 const t = useTranslations(currentLang as keyof typeof ui);
 
-const pageTitle = `Francis Ravn | ${t('archive.title')}`;
+const pageTitle = `Francis Espejo | ${t('archive.title')}`;
 const pageDescription = t('archive.description');
 
 const posts: CollectionEntry<'blog'>[] = await getCollection('blog', (post: CollectionEntry<'blog'>) => {

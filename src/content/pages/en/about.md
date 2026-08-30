@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Francis Ravn. Cybersecurity and systems."
+description: "Francis Espejo. Cybersecurity and systems."
 ---
 
 Focused on cybersecurity and systems.

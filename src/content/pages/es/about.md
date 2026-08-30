@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-description: "Francis Ravn. Ciberseguridad y sistemas."
+description: "Francis Espejo. Ciberseguridad y sistemas."
 ---
 
 Especializado en ciberseguridad y sistemas.

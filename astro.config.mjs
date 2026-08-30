@@ -6,7 +6,7 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://blog.francisravn.com',
+  site: 'https://blog.francisespejo.com',
   integrations: [mdx(), icon()],
   markdown: {
     shikiConfig: {

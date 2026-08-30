@@ -34,13 +34,13 @@ Also, to play I use Steam and GOG Galaxy, two game stores and launchers that tre
 
 ## Identity: Proton and my own domain
 
-Mail, calendar, drive, and passwords are on Proton, hanging off `francisravn.com`. The public mailbox is `fran@francisravn.com`. For everything I use the Proton suite; for very little per year you get VPN, Drive, email, password manager... So far they have not let me down.
+Mail, calendar, drive, and passwords are on Proton, hanging off `francisespejo.com`. The public mailbox is `fran@francisespejo.com`. For everything I use the Proton suite; for very little per year you get VPN, Drive, email, password manager... So far they have not let me down.
 
 The domain is mine. If Proton goes down or I switch providers, the MX records point somewhere else and the address stays the same
 
 ## Code and web: GitHub, public
 
-The landing ([francisravn.com](https://francisravn.com)) and this blog are static: generated HTML, GitHub, and GitHub Pages.
+The landing ([francisespejo.com](https://francisespejo.com)) and this blog are static: generated HTML, GitHub, and GitHub Pages.
 
 An article is a Markdown file and a commit. I skip WordPress; I used it a lot before but I now prefer something simpler for what I want to put here. The repo is public. If you want to see how it is put together, clone it. The site you are reading can be copied whole.
 
